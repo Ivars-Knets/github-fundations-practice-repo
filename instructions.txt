@@ -2,7 +2,3 @@ Instructions for deploying the site.
 -------------------------------------
 Just run the "index.html". That is all you need to do. Unless we add more stuff to this like need for backend server or database.
 And don't get me started on setting up something like ReactJS. It's great when you have it set up, but the process can be a major hassel, especially if you are not familiar with the process of setting it up.
-
-Installation of IIS
-------------------------------
-Don't.
